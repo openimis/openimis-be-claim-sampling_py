@@ -17,8 +17,8 @@ setup(
     long_description=README,
     long_description_content_type='text/markdown',
     url='https://openimis.org/',
-    author='author_email=wzgliniecki@soldevelo.com',
-    author_email='author=wzgliniecki',
+    author='wzgliniecki',
+    author_email='wzgliniecki@soldevelo.com',
     install_requires=[
         'django',
         'django-db-signals',
@@ -29,7 +29,7 @@ setup(
     classifiers=[
         'Environment :: Web Environment',
         'Framework :: Django',
-        'Framework :: Django :: 3.0',
+        'Framework :: Django :: 4.2',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: GNU Affero General Public License v3',
         'Operating System :: OS Independent',
